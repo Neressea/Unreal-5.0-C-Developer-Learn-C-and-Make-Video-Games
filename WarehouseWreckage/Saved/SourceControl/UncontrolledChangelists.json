@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/MyMaps/Minimal_Default1.umap",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/MyMaps/BP_Projectile.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/MyMaps/Main.umap",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/MyContent/BP_Projectile.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/WarehouseWreckage/Content/MyContent/BP_Barrel.uasset"
+			]
+		}
+	]
+}

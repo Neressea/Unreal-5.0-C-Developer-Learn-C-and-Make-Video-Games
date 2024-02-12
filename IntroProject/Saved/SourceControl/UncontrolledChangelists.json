@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/84/6NLN5D0TA5DWS3Z8QQ1I1L.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/A1/Q3XEVWNVO0OGJD67ODYZRN.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JR/VS634U8CHA6TR1AGI9IQ7A.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GD/PXX6L9NTTLZUWI0OON0TCP.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MY/YZIL3Y352WQRCHEZ6UIYV2.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2N/AQ3PMVJTDHAVT69OH6P94Y.uasset",
+				"S:/UnrealProjects/Courses/Unreal 5.0 C++ Developer Learn C++ and Make Video Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KM/FTV67IOPCHPDV8ZEH15VMU.uasset"
+			]
+		}
+	]
+}
